@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LilyGo EPD47 - ESP32-S3 USB CDC -->
+    <usb-device vendor-id="4292" product-id="60000" />
+    <!-- Common ESP32-S3 USB VID/PID -->
+    <usb-device vendor-id="4292" product-id="60001" />
+    <!-- Add your device's VID/PID here if different -->
+</resources>

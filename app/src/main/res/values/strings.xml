@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">宜阅墨水屏助手</string>
+    <string name="accessibility_service_description">用于在导航栏显示投屏切换按钮，以及向墨水屏注入触摸事件</string>
+    <string name="notification_channel_name">投屏切换通知</string>
+    <string name="notification_channel_desc">点击切换主屏与墨水屏</string>
+    <string name="notification_title_ready">准备就绪</string>
+    <string name="notification_text_ready">点击此处：将内容投射到墨水屏</string>
+    <string name="notification_title_active">正在墨水屏显示</string>
+    <string name="notification_text_active">点击此处：将内容恢复回手机主屏</string>
+    <string name="btn_start_projection">开始投屏</string>
+    <string name="btn_stop_projection">停止投屏</string>
+    <string name="status_not_connected">未连接设备</string>
+    <string name="status_usb_connected">USB 已连接</string>
+    <string name="status_usb_disconnected">USB 未连接</string>
+    <string name="status_vd_running">虚拟显示器运行中</string>
+    <string name="status_vd_waiting">等待创建...</string>
+    <string name="status_no_preview">无预览画面\n等待连接...</string>
+</resources>
